@@ -1,0 +1,5 @@
+# Chrono's Personal Blocklist
+127.0.0.1	 gateway.discord.gg
+127.0.0.1	 reddit.com
+127.0.0.1	 old.reddit.com
+127.0.0.1	 spotify.com
