@@ -2,5 +2,3 @@
 127.0.0.1	 gateway.discord.gg
 127.0.0.1	 reddit.com
 127.0.0.1	 old.reddit.com
-127.0.0.1	 dealer.spotify.com
-27.0.0.1	 open.spotify.com
